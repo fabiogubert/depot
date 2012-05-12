@@ -1,4 +1,4 @@
-depot
-=====
+Depot: The Demo App for Agile Web Development With Rails
+========================================================
 
-Repository for the AWDWR (4th edition) depot app for LA Rubyist's class!
+This is an example app being built in the book titled "Agile Web Development With Rails".  Buy the book today at [Pragmatic Programmers](http://pragprog.com/book/rails4/agile-web-development-with-rails).
